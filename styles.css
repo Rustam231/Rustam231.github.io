@@ -1,6 +1,6 @@
 body {
   background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210403/pngtree-simple-white-flat-vectors-with-diagonal-cuts-decorative-backdrops-for-your-image_597614.jpg);
-  color: white;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: Yellow;
+  color: #6CB4EE;
 }
 
 h1,
 h2 {
-  color: #7CB9E8;
+  color: 90EE90;
 }
 
 h1,
